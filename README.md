@@ -1,6 +1,8 @@
 # teste-pweb2
 Nosso Primeiro Programa no GitHub
 
-##desenvolvedores 
+## Desenvolvedores 
 
-Joseane de Oliveira
+**Joseane de Oliveira**
+
+Joseane Silva
